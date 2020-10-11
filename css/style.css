@@ -12,7 +12,7 @@ body{
 /*A PARTIR DE ESTA LINEA, SE ENCONTRARÁ LA PAGINA DE BIENVENIDA*/
 #coverPage{
     width: 100%;
-    height: 58em;
+    height: 59em;
     background: linear-gradient(to bottom right, #00b3ff 11%, #53b512 100%);
     display: flex;
     flex-direction: column;
@@ -55,20 +55,47 @@ body{
 
 #pageOne{
     width: 100%;
-    height: 58em;
+    height: 59em;
     background: linear-gradient(to top right, #ffd6d6 39%, #53b512 68%);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+/*EN ESTE APARTADO SE CREARA EL MENU*/
+
 header{
     width: 100%;
-    height: 8em;
+    height: 5em;
     background-color: white;
-
+    display: flex;
+    flex-direction: row-reverse;
 }
 
+.option{
+    width: 12.5%;
+    height: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 
+.optionText{
+    width: 100%;
+    height: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.goOption{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+/*AQUI TERMINARÍA EL MENÚ*/
 
 /*AQUI TEMRINA LA PAGINA DE PRESENTACIÓN*/
