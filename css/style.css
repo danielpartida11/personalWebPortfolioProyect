@@ -20,7 +20,7 @@ body{
     justify-content: center;
 }
 
-#title{
+.title{
     font-size: 12em;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -30,7 +30,7 @@ body{
     justify-content: center;
 }
 
-#subtitle{
+.subtitle{
     font-size: 7em;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -215,10 +215,26 @@ h5{
 
 /*COMIENZO DEL FOOTER*/
 
-footer{
+#footer{
     width: 100%;
-    height: 59,5em;
+    height: 59.5em;
     background: linear-gradient(to top left, #6d5f5f 59%, #007bff 72%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#githubIcon{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
 }
 
 /*FINAL DEL FOOTER*/
