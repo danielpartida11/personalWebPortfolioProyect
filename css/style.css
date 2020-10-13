@@ -9,6 +9,10 @@ body{
     flex-direction: column;
 }
 
+html{
+    scroll-behavior: smooth; /*ESTE COMANDO HACE EL EFECTO DE SCROLL*/
+}
+
 /*A PARTIR DE ESTA LINEA, SE ENCONTRARÁ LA PAGINA DE BIENVENIDA*/
 #coverPage{
     width: 100%;
