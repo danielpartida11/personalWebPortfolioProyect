@@ -1,1 +1,2 @@
-This small website that I have created consists of 4 sections: the first is a welcome poster, the second contains a small presentation about me, the third talks a little more about my personal tastes and hobbies and the fourth a page closure with a contact to my Github profile.
+This small website that I have created consists of 4 sections: the first is a welcome poster, the second contains a small presentation about me, the third talks a little more about my personal tastes and hobbies and the fourth a page closure with a contact to my Github profile. Click here so you can view the content of my personal web portfolio: https://danielpartida11.github.io/personalWebPortfolioProyect/
+
