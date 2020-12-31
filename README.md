@@ -2,7 +2,7 @@
 
 # ¿Qué es? 🧐
 
-    Este proyecto muestra un portfolio web personal mío, donde explico brevemente quién soy y a que me dedico.
+    Este proyecto muestra un portfolio web personal mío, donde explico brevemente quién soy y a qué me dedico.
 
 # ¿Qué tecnologías se han utilizado para realizar el proyecto?
 
@@ -14,3 +14,7 @@
     Al ingresar en el siguiente hipervínculo, podrás verlo:
 
     👉 https://danielpartida11.github.io/personalWebPortfolioProyect 👈
+
+# Autor
+
+    Daniel Partida
